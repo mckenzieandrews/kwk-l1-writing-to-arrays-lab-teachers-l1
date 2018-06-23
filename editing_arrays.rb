@@ -25,4 +25,3 @@ def add_colors
   return rainbow_colors
 
 end
-change_rainbow_colors
