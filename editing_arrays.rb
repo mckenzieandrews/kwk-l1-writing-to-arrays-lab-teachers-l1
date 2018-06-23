@@ -15,4 +15,8 @@ end
 
 def add_colors
   # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
+  rainbow_colors << "green"
+  rainbow_colors << "blue"
+  return rainbow_colors
+
 end
